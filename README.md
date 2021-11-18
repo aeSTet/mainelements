@@ -194,4 +194,9 @@ activity_main.xml:
 
         </LinearLayout>
         
- 
+![image](https://user-images.githubusercontent.com/76133815/142426738-54447df2-d1af-4592-a4a0-911fb13ec939.png)
+
+![image](https://user-images.githubusercontent.com/76133815/142426894-fff683a5-197f-4a54-91d8-4d94bde3294d.png)
+
+![image](https://user-images.githubusercontent.com/76133815/142426954-caf37d14-b91e-4f97-acec-cd20892eebc9.png)
+
